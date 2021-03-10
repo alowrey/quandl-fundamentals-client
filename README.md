@@ -1,0 +1,1 @@
+# quandl-fundamentals-client
